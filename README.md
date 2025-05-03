@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Mark!
 
-<!--
-**oomfie-bot/oomfie-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th-year **Computer Science** student at the **University of Caloocan City**.  
+🎨 I consider myself not just a **programmer**, but also an **artist** as well.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+JavaScript • PHP • Dart • HTML • CSS
+
+### 🛠️ Tools & Technologies
+GitHub • Visual Studio • VS Code • Firebase • Flutter
+
+---
+
+### 📊 GitHub Stats
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oomfie-bot&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oomfie-bot&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Check out my pinned projects below!
