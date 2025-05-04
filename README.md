@@ -1,6 +1,6 @@
 ### **Hi there 👋, I'm Mark!**
 
-🎓 I'm a 4th-year Computer Science** student at the **University of Caloocan City.  
+🎓 I'm a 4th-year Computer Science student at the University of Caloocan City.  
 ---
 ###  🛠️ **Tools and Technologies**
 
