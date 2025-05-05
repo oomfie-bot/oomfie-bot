@@ -20,9 +20,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oomfie-bot&layout=compact&theme=tokyonight)
-
----
-
 ### 📌 Check out my pinned projects below!
